@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'chunkfive';
+    src: url('chunkfive-webfont.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'sinkinsans';
+    src: url('sinkinsans-200xlight-webfont.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+	text-align: center;
+	font-family: sinkinsans;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+	font-family: chunkfive;
+	/*color: #cfffff;*/
+	text-decoration-style: bold;
+}
+
+h2 {
+	text-align: center;
+	font-family: chunkfive;
+	/*color: #cfffff;*/
+	text-decoration-style: bold;
+	b
+}
+
+h3 {
+	text-align: center;
+	font-family: chunkfive;
+	/*color: #cfffff;*/
+	text-decoration-style: bold;
+}
+
+#headrow {
+	background-color: #8AECF8;
+}
+
+#ryan {
+	background-color: #8AECF8;
+}
+
+#row2 {
+	background-color: #cfffff;
+}
+
+#row3 {
+	background-color: #8AECF8;
+}
+
+#line {
+	background-color: #F7F953;
+}
+
+#sites {
+	background-color: #FC9745;
+}
+
+#woof {
+	background-color: #247101;
+}
+
+
+
+#contain {
+	background-color: #cfffff;
+	padding: 60px;
+    margin-top: 60px;
+}
+
+#mysite {
+	background-color: #FC9745;
+}
+
+hr {
+    background-color: #FC9745;
+    height: 3px;
+    margin: 20px 0;
+    border: 0px;
+}
+
+h4 {
+	margin: 0 0 0 0;
+	color: #247101;
+}
